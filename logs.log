@@ -1,0 +1,128 @@
+2021-09-29 11:30:28,021 INFO r.o.Logger [main] Тест запущен
+2021-09-29 11:33:32,796 WARN r.o.Logger [main] Предупреждение
+2021-09-29 11:35:03,015 ERROR r.o.Logger [main] Ошибка
+2021-09-29 13:37:56,290 INFO r.o.Logger [main] Driver up
+2021-09-29 13:38:01,343 INFO r.o.Logger [main] Открылась страница сайта
+2021-09-29 13:38:52,177 INFO r.o.Logger [main] Driver up
+2021-09-29 13:39:00,789 INFO r.o.Logger [main] Открылась страница сайта
+2021-09-29 13:39:30,652 INFO r.o.Logger [main] Driver up
+2021-09-29 13:39:36,511 INFO r.o.Logger [main] Открылась страница сайта
+2021-09-29 13:42:38,037 INFO r.o.Logger [main] Driver up
+2021-09-29 13:42:43,570 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 16:24:45,032 INFO r.o.Logger [main] Driver up
+2021-10-19 16:24:49,858 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 16:25:03,500 INFO r.o.Logger [main] Driver up
+2021-10-19 16:25:16,226 INFO r.o.Logger [main] Driver up
+2021-10-19 16:25:20,840 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 16:27:23,497 INFO r.o.Logger [main] Driver up
+2021-10-19 16:27:26,884 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 16:56:21,093 INFO r.o.Logger [main] Driver up
+2021-10-19 16:56:24,603 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 16:58:55,512 INFO r.o.Logger [main] Driver up
+2021-10-19 16:59:00,034 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 16:59:51,403 INFO r.o.Logger [main] Driver up
+2021-10-19 16:59:55,836 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 19:55:04,905 INFO r.o.Logger [main] Driver up
+2021-10-19 19:55:06,706 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 21:21:42,216 INFO r.o.Logger [main] Driver up
+2021-10-19 21:21:43,943 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 21:25:11,826 INFO r.o.Logger [main] Driver up
+2021-10-19 21:25:14,057 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 21:25:36,611 INFO r.o.Logger [main] Driver up
+2021-10-19 21:25:38,425 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 21:27:07,668 INFO r.o.Logger [main] Driver up
+2021-10-19 21:27:09,631 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 21:29:49,692 INFO r.o.Logger [main] Driver up
+2021-10-19 21:29:51,494 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-19 21:30:15,650 INFO r.o.Logger [main] Driver up
+2021-10-19 21:30:17,526 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-20 15:33:21,641 INFO r.o.Logger [main] Driver up
+2021-10-20 15:33:24,056 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-20 15:34:00,521 INFO r.o.Logger [main] Driver up
+2021-10-20 15:34:03,439 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-20 15:36:33,136 INFO r.o.Logger [main] Driver up
+2021-10-20 15:36:38,739 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-20 15:36:53,616 INFO r.o.Logger [main] Driver up
+2021-10-20 15:36:59,026 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-20 15:37:49,348 INFO r.o.Logger [main] Driver up
+2021-10-20 15:37:54,780 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-20 15:37:58,819 INFO r.o.Logger [main] Тест прошел успешно!
+2021-10-20 15:39:36,364 INFO r.o.Logger [main] Driver up
+2021-10-20 15:39:41,713 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-20 15:39:41,758 INFO r.o.Logger [main] В поисковую строку введено значение 'ОТУС'
+2021-10-20 15:39:45,575 INFO r.o.Logger [main] Проверка поисковой выдачи
+2021-10-20 15:39:45,599 INFO r.o.Logger [main] Тест прошел успешно!
+2021-10-20 15:54:42,686 INFO r.o.Logger [main] Driver up
+2021-10-20 15:57:39,839 INFO r.o.Logger [main] Driver up
+2021-10-20 16:03:03,197 INFO r.o.Logger [main] Driver up
+2021-10-20 16:04:51,507 INFO r.o.Logger [main] Driver up
+2021-10-20 16:04:55,333 INFO r.o.Logger [main] Открыта страица сайта
+2021-10-20 16:04:55,399 INFO r.o.Logger [main] Картинка открыта в модальном окне
+2021-10-20 16:05:33,827 INFO r.o.Logger [main] Driver up
+2021-10-20 16:05:37,457 INFO r.o.Logger [main] Открыта страица сайта
+2021-10-20 16:05:37,534 INFO r.o.Logger [main] Картинка открыта в модальном окне
+2021-10-20 16:08:21,303 INFO r.o.Logger [main] Driver up
+2021-10-20 16:08:26,941 INFO r.o.Logger [main] Открыта страица сайта
+2021-10-20 16:09:06,958 INFO r.o.Logger [main] Driver up
+2021-10-20 16:09:10,427 INFO r.o.Logger [main] Открыта страица сайта
+2021-10-20 16:09:10,503 INFO r.o.Logger [main] Картинка открыта в модальном окне
+2021-10-21 07:40:41,234 INFO r.o.Logger [main] Driver up
+2021-10-21 07:40:49,387 INFO r.o.Logger [main] Открыта страица сайта
+2021-10-21 07:40:49,593 INFO r.o.Logger [main] Картинка открыта в модальном окне
+2021-10-21 07:42:13,385 INFO r.o.Logger [main] Driver up
+2021-10-21 07:42:18,380 INFO r.o.Logger [main] Открыта страица сайта
+2021-10-21 07:42:18,600 INFO r.o.Logger [main] Картинка открыта в модальном окне
+2021-10-21 07:47:07,593 INFO r.o.Logger [main] Driver up
+2021-10-21 07:48:00,975 INFO r.o.Logger [main] Driver up
+2021-10-21 07:48:36,935 INFO r.o.Logger [main] Driver up
+2021-10-21 07:51:47,484 INFO r.o.Logger [main] Driver up
+2021-10-21 07:53:11,927 INFO r.o.Logger [main] Driver up
+2021-10-21 07:54:01,329 INFO r.o.Logger [main] Driver up
+2021-10-21 07:56:24,431 INFO r.o.Logger [main] Driver up
+2021-10-21 07:57:33,729 INFO r.o.Logger [main] Открыта страица сайта
+2021-10-21 07:57:33,956 INFO r.o.Logger [main] Картинка открыта в модальном окне
+2021-10-21 08:09:11,082 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:09:11,288 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:11:10,877 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:11:11,741 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:20:02,374 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:20:02,872 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:20:03,638 INFO r.o.Logger [main] Поля имя заполнено
+2021-10-21 08:20:03,969 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:23:07,033 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:23:07,268 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:23:08,117 INFO r.o.Logger [main] Поля имя заполнено
+2021-10-21 08:23:08,382 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:23:08,459 INFO r.o.Logger [main] Регистрация успешно произведена
+2021-10-21 08:24:17,469 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:24:18,089 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:24:18,623 INFO r.o.Logger [main] Поля имя заполнено
+2021-10-21 08:24:18,929 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:24:19,014 INFO r.o.Logger [main] Регистрация успешно произведена
+2021-10-21 08:33:27,572 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:33:28,168 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:33:28,922 INFO r.o.Logger [main] Поля имя заполнено
+2021-10-21 08:33:29,597 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:33:29,684 INFO r.o.Logger [main] Регистрация успешно произведена
+2021-10-21 08:33:33,098 INFO r.o.Logger [main] [auth_token_expires=1729402445; expires=Вс, 20 окт 2024 08:33:32 MSK; path=/; domain=.otus.ru, advcake_track_id=bc2e829f-a85c-1538-4c9c-e3b4549b2cfd; expires=Сб, 20 ноя 2021 08:33:25 MSK; path=/; domain=.otus.ru, sessionid=pxtrxzhz6y9akdmwmfh575iygk4q4ivx; expires=Ср, 19 янв 2022 08:33:31 MSK; path=/; domain=otus.ru; sameSite=Lax, oid=9c01c2216651eb26fdc8a4f91736b6d7; expires=Вс, 20 окт 2024 08:33:32 MSK; path=/; domain=.otus.ru, _ym_d=1634794406; expires=Пт, 21 окт 2022 08:33:26 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ym_visorc=w; expires=Чт, 21 окт 2021 09:03:32 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.1028125101.1634794406; expires=Пт, 22 окт 2021 08:33:32 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=Вс, 20 окт 2024 08:33:32 MSK; path=/; domain=otus.ru, _ym_uid=1634794406491749978; expires=Пт, 21 окт 2022 08:33:26 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=Чт, 21 окт 2021 08:34:25 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=Пт, 22 окт 2021 04:33:26 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1070240040.1634794406; expires=Сб, 21 окт 2023 08:33:32 MSK; path=/; domain=.otus.ru, _fbp=fb.1.1634794407164.1145368175; expires=Ср, 19 янв 2022 08:33:33 MSK; path=/; domain=.otus.ru; sameSite=Lax, auth_token=AwCUK5_QjFOvJhTbYMvePQ; expires=Вс, 20 окт 2024 08:33:32 MSK; path=/; domain=.otus.ru, advcake_session_id=10219d4d-f796-7788-c3d9-6782f8d0f409; expires=Сб, 20 ноя 2021 08:33:25 MSK; path=/; domain=.otus.ru]
+2021-10-21 08:39:16,428 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:39:16,971 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:39:17,595 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:39:17,812 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:39:17,887 INFO r.o.Logger [main] Авторизация успешно произведена
+2021-10-21 08:39:49,185 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:39:49,937 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:39:50,355 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:39:50,539 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:39:50,614 INFO r.o.Logger [main] Авторизация успешно произведена
+2021-10-21 08:39:54,727 INFO r.o.Logger [main] [auth_token_expires=1729402825; expires=Вс, 20 окт 2024 08:39:53 MSK; path=/; domain=.otus.ru, advcake_track_id=6fe5e102-54af-16bb-ce7d-c7121fa05eca; expires=Сб, 20 ноя 2021 08:39:47 MSK; path=/; domain=.otus.ru, sessionid=8sekqgzsjtbmp0jx99w0iajyg4r03mzr; expires=Ср, 19 янв 2022 08:39:52 MSK; path=/; domain=otus.ru; sameSite=Lax, _ym_d=1634794788; expires=Пт, 21 окт 2022 08:39:47 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, oid=9c01c2216651eb26fdc8a4f91736b6d7; expires=Вс, 20 окт 2024 08:39:53 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=Чт, 21 окт 2021 09:09:53 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.1726887296.1634794788; expires=Пт, 22 окт 2021 08:39:53 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=Вс, 20 окт 2024 08:39:53 MSK; path=/; domain=otus.ru, _ym_uid=1634794788800810445; expires=Пт, 21 окт 2022 08:39:47 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ym_isad=2; expires=Пт, 22 окт 2021 04:39:48 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=Чт, 21 окт 2021 08:40:47 MSK; path=/; domain=.otus.ru, _ga=GA1.2.1607879862.1634794788; expires=Сб, 21 окт 2023 08:39:53 MSK; path=/; domain=.otus.ru, _fbp=fb.1.1634794788786.773646046; expires=Ср, 19 янв 2022 08:39:54 MSK; path=/; domain=.otus.ru; sameSite=Lax, auth_token=duVqmI0NfYEOVONUYcE5dA; expires=Вс, 20 окт 2024 08:39:53 MSK; path=/; domain=.otus.ru, advcake_session_id=cb2b6ccb-d2b6-e48f-3fc0-7e1c63e766dc; expires=Сб, 20 ноя 2021 08:39:47 MSK; path=/; domain=.otus.ru]
+2021-10-21 08:42:19,358 INFO r.o.Logger [main] Страница сайта открыта
+2021-10-21 08:42:19,668 INFO r.o.Logger [main] Открыта страница авторизации
+2021-10-21 08:42:20,382 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:42:20,598 INFO r.o.Logger [main] Поле e-mail заполнено
+2021-10-21 08:42:20,674 INFO r.o.Logger [main] Авторизация успешно произведена
+2021-10-21 08:42:23,818 INFO r.o.Logger [main] [auth_token_expires=1729402975; expires=Вс, 20 окт 2024 08:42:23 MSK; path=/; domain=.otus.ru, advcake_track_id=0b049d88-a3fa-78e9-72c1-23e59ffad871; expires=Сб, 20 ноя 2021 08:42:15 MSK; path=/; domain=.otus.ru, sessionid=oo9r5kkl3ktd5jh77tm64gazzxh6ns6i; expires=Ср, 19 янв 2022 08:42:21 MSK; path=/; domain=otus.ru; sameSite=Lax, _ym_d=1634794936; expires=Пт, 21 окт 2022 08:42:15 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, oid=9c01c2216651eb26fdc8a4f91736b6d7; expires=Вс, 20 окт 2024 08:42:23 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=Чт, 21 окт 2021 09:12:22 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=Вс, 20 окт 2024 08:42:23 MSK; path=/; domain=otus.ru, _gid=GA1.2.388165988.1634794936; expires=Пт, 22 окт 2021 08:42:22 MSK; path=/; domain=.otus.ru, _ym_uid=1634794936716871250; expires=Пт, 21 окт 2022 08:42:15 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ym_isad=2; expires=Пт, 22 окт 2021 04:42:16 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=Чт, 21 окт 2021 08:43:15 MSK; path=/; domain=.otus.ru, _ga=GA1.2.428919922.1634794936; expires=Сб, 21 окт 2023 08:42:22 MSK; path=/; domain=.otus.ru, _fbp=fb.1.1634794937128.1608953288; expires=Ср, 19 янв 2022 08:42:23 MSK; path=/; domain=.otus.ru; sameSite=Lax, auth_token=UJXOZ-MrgaiACZo97nc7yQ; expires=Вс, 20 окт 2024 08:42:23 MSK; path=/; domain=.otus.ru, advcake_session_id=9dea955e-57db-598e-30a6-24a1243ac446; expires=Сб, 20 ноя 2021 08:42:15 MSK; path=/; domain=.otus.ru]
+2021-10-21 09:10:45,381 INFO r.o.Logger [main] Открылась страница сайта
+2021-10-21 09:10:45,504 INFO r.o.Logger [main] В поисковую строку введено значение 'ОТУС'
+2021-10-21 09:10:48,660 INFO r.o.Logger [main] Проверка поисковой выдачи
+2021-10-21 09:10:48,720 INFO r.o.Logger [main] Тест прошел успешно!
